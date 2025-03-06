@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hola, soy Ricardo Higueras Bañuls
 
-<!--
-**RicardoHigueras/RicardoHigueras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
 
-Here are some ideas to get you started:
+- 🎓 **Quién soy**: Soy un desempleado apasionado por los videojuegos. Actualmente, estoy estudiando en un Grado Superior de Desarrollo de Aplicaciones Web.
+- 📸 **Fotografía**: ![image](https://github.com/user-attachments/assets/3a554d58-5bb3-4330-aa10-869474c4e8f6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tecnologías y Herramientas
+
+- **Lenguajes que domino**:
+  - 🌐 HTML, CSS, JavaScript
+  - ☕ Java
+  
+- **Aprendiendo actualmente**:
+  - JSON
+ 
+---
+
+## 🌐 Enlaces
+
+- 🔗 [Mi LinkedIn](https://www.linkedin.com/in/ricardo-higueras/)
+
+---
+
+## 📞 Contacto
+
+- 📧 Email: [rhiguerasb13@gmail.com](rhiguerasb13@gmail.com)
+- 📱 Teléfono: +34 601101756
+
+---
+
+✨ ¡Gracias por visitar mi perfil! ¡Espero colaborar contigo pronto! ✨
