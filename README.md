@@ -3,7 +3,8 @@
 ## 🚀 Sobre mí
 
 - 🎓 **Quién soy**: Soy un desempleado apasionado por los videojuegos. Actualmente, estoy estudiando en un Grado Superior de Desarrollo de Aplicaciones Web.
-- 📸 **Fotografía**: ![image](https://github.com/user-attachments/assets/3a554d58-5bb3-4330-aa10-869474c4e8f6)
+- 📸 **Fotografía**: ![image](![image](https://github.com/user-attachments/assets/df67535c-f9c2-448d-8c16-4915edfdedac)
+)
 
 ---
 
