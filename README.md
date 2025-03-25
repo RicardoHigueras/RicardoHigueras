@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 **Quién soy**: Soy un desempleado apasionado por los videojuegos. Actualmente, estoy estudiando en un Grado Superior de Desarrollo de Aplicaciones Web.
+- 🎓 **Quién soy**: Soy un estudiante apasionado por los videojuegos. Actualmente, estoy cursando un Grado Superior de Desarrollo de Aplicaciones Web.
 
 ---
 
