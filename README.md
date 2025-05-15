@@ -9,11 +9,14 @@
 ## 💻 Tecnologías y Herramientas
 
 - **Lenguajes que domino**:
-  - 🌐 HTML, CSS, JavaScript
+  - 🌐 HTML, CSS
   - ☕ Java
+
+- **Lenguajes que he dado**:
+  - 🌐 JavaScript, JSON y AYAX,
   
 - **Aprendiendo actualmente**:
-  - JSON
+  - 🌐 XML
  
 ---
 
