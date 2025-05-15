@@ -13,7 +13,7 @@
   - ☕ Java
 
 - **Lenguajes que he dado**:
-  - 🌐 JavaScript, JSON y AYAX,
+  - 🌐 JavaScript, JSON y AYAX
   
 - **Aprendiendo actualmente**:
   - 🌐 XML
